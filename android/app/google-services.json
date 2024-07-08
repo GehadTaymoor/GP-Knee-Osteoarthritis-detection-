@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993741063885",
+    "project_id": "knee-osteoarthritis-a7794",
+    "storage_bucket": "knee-osteoarthritis-a7794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993741063885:android:0f6e6b0b4a26259abd8b84",
+        "android_client_info": {
+          "package_name": "com.example.knee_osteoarthritis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIXP7VfjEmATJD_60p9IXfXkvuYxmP2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
